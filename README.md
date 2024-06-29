@@ -1,6 +1,6 @@
 # [MERN Social App](https://socialyuva.vercel.app/)
 
-![image](https://github.com/deepaksuthar40128/reactHost/assets/92250394/2683e55a-6bc2-4201-a021-d160cd3a4c31)
+
 
 ## Description
 

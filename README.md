@@ -41,6 +41,3 @@ To run this app on your local machine, follow these steps:
 
 Contributions are welcome! If you have any ideas or improvements, please submit a pull request. For major changes, please open an issue first to discuss the changes.
 
-
-## You can contact me for any tips/query anytime [Deepak Suthar](https://deepaksuthar.vercel.app)
-
